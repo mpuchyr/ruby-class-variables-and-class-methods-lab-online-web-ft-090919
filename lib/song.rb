@@ -48,6 +48,7 @@ class Song
       else
         artist_counter[artist] = 1
       end
+    artist_counter
   end
 
 end
